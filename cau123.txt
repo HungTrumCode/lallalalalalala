@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file cau123 cua cau123 ma thoi
+=======
+file cau123 cau main va branch cau123
+>>>>>>> main
